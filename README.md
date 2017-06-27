@@ -70,7 +70,7 @@ Here is an example image and associated steering angle:
 
 
 Here is the distribution of steering angles:
-<div style="text-align:center"><img src ="Readme_images/distribution.png" /></div>
+<div style="text-align:center"><img src ="Readme_images/Distribution.png" /></div>
 
 The distribution of steering angles shows that most images have a steering of 0 (driving straight) and that there is a bias towards turning left (most turns on track 1 are left turns).
 
